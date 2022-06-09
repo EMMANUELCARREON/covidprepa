@@ -1,0 +1,8 @@
+
+.body,header{ background:rgb(255, 5, 172 ) ;font-size: 40px;padding-left: 300px;font-family:Goudy Stout  ;}
+*{background: black;}
+.body,ul,li{ font-size: 16px;display: inline;line-height: 5.5;padding-left:60px ;font-family:Goudy Stout ;}
+.body,img{ width: 1000px; height: 1000px;margin-top: 100px;padding-left: 150px;}
+.body,h1{color: white;padding-left: 550px;margin-top: 70px;font-size: 20px;}
+.yu{ padding-left: 117px;}
+.yo{ padding-left: 580px;}
